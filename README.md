@@ -11,6 +11,7 @@
 
 <br><br>
 
-https://komarev.com/ghpvc/?username=k-oaken-s&color=brightgreen
+<!-- GitHub Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=k-oaken-s&color=brightgreen)
 
 </div>
