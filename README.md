@@ -11,6 +11,6 @@
 
 <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-oaken-s&theme=rogue&hide_border=true" width="100%" />
+https://komarev.com/ghpvc/?username=k-oaken-s&color=brightgreen
 
 </div>
